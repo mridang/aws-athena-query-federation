@@ -250,9 +250,7 @@
     </profile>
   </profiles>
   <modules>
-    <module>athena-arrow-java-dist</module>
     <module>athena-federation-sdk</module>
-    <module>athena-federation-sdk-tools</module>
     <module>athena-federation-integ-test</module>
     <module>athena-docdb</module>
   </modules>
